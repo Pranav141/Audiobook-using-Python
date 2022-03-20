@@ -1,0 +1,10 @@
+import pyttsx3
+speaker=pyttsx3.init()
+rate=speaker.getProperty('rate')
+speaker.setProperty('rate',250)
+voices=speaker.getProperty('voices')
+print(voices)
+speaker.setProperty('voice', voices[1].id)
+speaker.say("hello i am pranav from MUMBAI, Thank you.")
+speaker.runAndWait()
+speaker.stop()

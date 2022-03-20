@@ -1,0 +1,20 @@
+Selected file from:- C:/Users/Pranav/Desktop/.py file/mini p/files/file1.pdf
+Total no. of words = 27
+Audio file saved at:- C:/Users/Pranav/Desktop/.py file/mini p/audio/file1audio.mp3
+Total time taken= 2.173seconds
+
+Selected file from:- C:/Users/Pranav/Desktop/.py file/mini p/files/file2.pdf
+Total no. of words = 713
+Audio file saved at:- C:/Users/Pranav/Desktop/.py file/mini p/audio/file2audio.mp3
+Total time taken= 36.66seconds
+
+Selected file from:- C:/Users/Pranav/Desktop/.py file/mini p/files/file3.pdf
+Total no. of words = 1623
+Audio file saved at:- C:/Users/Pranav/Desktop/.py file/mini p/audio/file3audio.mp3
+Total time taken= 173.5seconds
+
+Selected file from:- C:/Users/Pranav/Desktop/.py file/mini p/files/file4.pdf
+Total no. of words = 377
+Audio file saved at:- C:/Users/Pranav/Desktop/.py file/mini p/audio/file4audio.mp3
+Total time taken= 24.25seconds
+
